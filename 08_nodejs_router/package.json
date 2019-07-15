@@ -2,7 +2,7 @@
   "name": "nodejs_wwwroot",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "06router_express_module.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
